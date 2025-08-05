@@ -10,3 +10,4 @@ nums = [1, 5, 8, 77, 24, 95]
 
 max = max_value(nums)
 print(max)
+

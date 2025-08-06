@@ -3,17 +3,17 @@ class Node:
         self.val = val
         self.next = None
 
-a = Node('A')
-b = Node('B')
-c = Node('C')
-d = Node('D')
+
+a = Node("A")
+b = Node("B")
+c = Node("C")
+d = Node("D")
 
 a.next = b
 b.next = c
 c.next = d
 
 # A -> B -> C -> D -> None
-
 
 
 # def print_list(head):
@@ -29,4 +29,6 @@ def print_list(head):
     print(head.val)
     print_list(head.next)
 
+
 print_list(a)
+

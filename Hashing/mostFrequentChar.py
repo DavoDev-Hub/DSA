@@ -14,8 +14,7 @@ def most_frequent_char(s):
     print(best)
 
 
-most_frequent_char("wdaavoow")
-
+print(most_frequent_char("wdwd"))
 # Posible solution
 # def most_frequent_char(s):
 #     count = {}

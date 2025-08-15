@@ -8,7 +8,6 @@ def char_counter(s):
         if char not in counter:
             counter[char] = 0
         counter[char] += 1
-
     return counter
 
 

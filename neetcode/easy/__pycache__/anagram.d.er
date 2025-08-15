@@ -1,0 +1,3 @@
+##[pylyzer] failed /home/davo/Programacion/DSA/neetcode/easy/anagram.py 1755220925 338
+.isAnagram: |K: Type, T: Type, Type_17011 <: Structural({.__len__ = (self: Never) -> Nat; .__getitem__ = (self: Obj, ?T) -> ?K and (self: Obj, ?T) -> ?17062}), Type_17062: Type, T :> Int|(s: Type_17011, t: Structural({.__len__ = (self: Never) -> Nat; .__getitem__ = (self: Obj, T) -> K and (self: Obj, T) -> Never})) -> Bool
+

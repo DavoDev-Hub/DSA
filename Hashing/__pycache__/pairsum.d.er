@@ -1,0 +1,4 @@
+##[pylyzer] failed /home/davo/Programacion/DSA/Hashing/pairsum.py 1755186465 490
+.pair_product: |K: Type, Type_105 <: Structural({.__div__ = (self: Never, K) -> T}), T: Type|(numbers: global::Iterable(K), target_product: Type_105) -> NoneType
+.result: NoneType
+
